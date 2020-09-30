@@ -1,0 +1,16 @@
+{
+    "name": "Homework 0",
+    "endpoint": "davis/ecs32a/fa20/hw0",
+    "src": [
+        "hw0.py"
+    ],
+    "tests": {
+        "hw0.py:hello_world": "doctest"
+    },
+    "protocols": [
+        "file_contents",
+        "grading",
+        "analytics",
+        "backup"
+    ]
+}
