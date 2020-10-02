@@ -180,7 +180,7 @@ After clicking on the corresponding email, you should get a confirmation page.
 
 Okpy uses doc string to test your code. For homework 0, there will only be one question, you can run
 
-`python3 ok -q q1`
+`python3 ok -q hello_world`
 
 to verify your code is correct.
 
